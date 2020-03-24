@@ -1,33 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c75bdc5c-0931-4187-a9bb-9783ea320b89" name="默认更改列表" comment="" />
+    <list default="true" id="b6e213e4-8580-46fc-ba6c-4a3f854e339e" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/DisplaySarsData_web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HuaRongSARS1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MacroExpansionManager">
-    <option name="directoryName" value="RkoyJCkt" />
+    <option name="directoryName" value="MgtGhoAC" />
   </component>
-  <component name="ProjectId" id="1Xf2jRAhZmlOEpWPkdnnN8VNyP0" />
+  <component name="ProjectId" id="1Za2wCqSv5VfPQDn8jMuPBvo037" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -44,15 +41,15 @@
   </component>
   <component name="RunManager" selected="Python.GetDataFromWeb">
     <configuration name="GetDataFromWeb" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="HuaRongSARS1" />
+      <module name="DisplaySarsData_web" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -66,7 +63,7 @@
       <method v="2" />
     </configuration>
     <configuration name="game" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="HuaRongSARS1" />
+      <module name="DisplaySarsData_web" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -87,10 +84,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Python.game" />
-      <item itemvalue="Python.GetDataFromWeb" />
-    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.GetDataFromWeb" />
@@ -103,29 +96,34 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c75bdc5c-0931-4187-a9bb-9783ea320b89" name="默认更改列表" comment="" />
-      <created>1581422962379</created>
+      <changelist id="b6e213e4-8580-46fc-ba6c-4a3f854e339e" name="默认更改列表" comment="" />
+      <created>1585063120829</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1581422962379</updated>
-      <workItem from="1581422963577" duration="2622000" />
-      <workItem from="1581476399395" duration="4494000" />
-      <workItem from="1581670305390" duration="889000" />
-      <workItem from="1583586649967" duration="35000" />
-      <workItem from="1583586689958" duration="2000" />
-      <workItem from="1585019693609" duration="12571000" />
-      <workItem from="1585057600662" duration="132000" />
+      <updated>1585063120829</updated>
+      <workItem from="1585063123260" duration="74000" />
+      <workItem from="1585063340255" duration="214000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/GetSarsData_web$game.coverage" NAME="game Coverage Results" MODIFIED="1585020047030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/GetSarsData_web$GetDataFromWeb.coverage" NAME="GetDataFromWeb Coverage Results" MODIFIED="1585057446607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/HuaRongSARS1$game.coverage" NAME="game Coverage Results" MODIFIED="1583586668032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/HuaRongSARS1$GetDataFromWeb.coverage" NAME="GetDataFromWeb Coverage Results" MODIFIED="1581603160071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/DisplaySarsData_web$GetDataFromWeb.coverage" NAME="GetDataFromWeb Coverage Results" MODIFIED="1585057702472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DisplaySarsData_web$GetDataFromWeb.coverage" NAME="GetDataFromWeb Coverage Results" MODIFIED="1585063541543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DisplaySarsData_web$game.coverage" NAME="game Coverage Results" MODIFIED="1585063444888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
