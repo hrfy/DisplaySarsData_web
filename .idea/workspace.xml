@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6e213e4-8580-46fc-ba6c-4a3f854e339e" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GetDataFromWeb.py" beforeDir="false" afterPath="$PROJECT_DIR$/GetDataFromWeb.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
-    </list>
+    <list default="true" id="b6e213e4-8580-46fc-ba6c-4a3f854e339e" name="默认更改列表" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +97,7 @@
       <workItem from="1585063123260" duration="74000" />
       <workItem from="1585063340255" duration="214000" />
       <workItem from="1585063755176" duration="64000" />
+      <workItem from="1585064459653" duration="39000" />
     </task>
     <servers />
   </component>
