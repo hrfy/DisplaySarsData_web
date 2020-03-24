@@ -1,7 +1,7 @@
 #！coding=utf-8
-# @Version : 1.0
-# @Time    : 2020/1/20  
-# @Author  : hua rong
+# Version : 1.0
+# Time    : 2020/1/20
+# Author  : hua rong
 
 
 

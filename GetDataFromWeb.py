@@ -1,9 +1,9 @@
 #!coding:utf-8
-# @Version    : 1.0
-# @Time       : 2020/1/20
-# @Author     : Hua Rong
-# @environment: python2.7
-# @packages   : pandas, JSON, requests
+# Version    : 1.0
+# Time       : 2020/1/20
+# Author     : Hua Rong
+# Environment: python2.7
+# Packages   : pandas, JSON, requests
 
 import json
 import requests
