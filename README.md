@@ -1,10 +1,2 @@
 # DisplaySarsData_web
-   Download the data of Sars from the Internet,and display.
-   
-   Version    : 1.0
-   
-   Time       : 2020/1/20
-   
-   Environment: python2.7
-
-   Packages   : pandas, JSON, requests
+ Download the SARS data on the Internet and save it to a CSV file. According to the classification of data, this program may generate multiple CSV files in the current directory.
